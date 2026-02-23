@@ -1,0 +1,3 @@
+numero de linhas:  2
+numero de caracteres:44
+numero_de_palavras:8

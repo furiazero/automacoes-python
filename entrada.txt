@@ -1,0 +1,2 @@
+Ola eu sou o nicolas
+estou aprendendo python
